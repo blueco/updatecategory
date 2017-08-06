@@ -1,7 +1,6 @@
 ## Setup notes
-1. Download the folder and upload the WordPress plugin folder i.e wp-content/plugins. OR
-2. Select update_category.zip if install plugin within WordPress Plugin admin. 
-3. On WordPress Dashboard go to Plugins i.e wp-admin/plugins.php and activate plugin name Update Category.
+1. Download update_category.zip and install plugin via WordPress Plugin admin and activate.
+2. Use json.db file for fake api server.
 
 ## Work left in progress
 1. The Bonus part in the test - Disable ability to add new categories from within WordPress.
