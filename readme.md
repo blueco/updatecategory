@@ -21,6 +21,10 @@
 2. It's a pleasure to be able to take this test.
 3. Looking forward to meet the examiner of this plugin and chances to work together.
 
+## Test Environment
+1. Go to http://blueco.kitsonlai.com/wp-admin
+2. Username : admin Password : e3r4t5
+
 ## Dev Notes
 1. This plugin work based on the db.json file available within the folder. OR the following
 2. The existing WordPress categories have the similar id, name, parent_id to work with the plugin.
