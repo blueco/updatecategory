@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": 256,
+      "name": "State",
+      "parent_id": null
+    },
+    {
+      "id": 261,
+      "name": "NSW",
+      "parent_id": 256
+    },
+    {
+      "id": 257,
+      "name": "VIC",
+      "parent_id": 256
+    },
+    {
+      "id": 262,
+      "name": "QLD",
+      "parent_id": 256
+    },
+    {
+      "id": 258,
+      "name": "WA",
+      "parent_id": 256
+    },
+    {
+      "id": 260,
+      "name": "ACT",
+      "parent_id": 256
+    },
+    {
+      "id": 255,
+      "name": "National",
+      "parent_id": null
+    },
+    {
+      "id": 259,
+      "name": "World",
+      "parent_id": null
+    }
+  ]
+}
